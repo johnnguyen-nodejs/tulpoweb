@@ -1,0 +1,94 @@
+<script>
+    jQuery('.showfomrmmail').click(function (e) {
+        e.preventDefault();
+        jQuery('.wp-form-show-phone').addClass('active');
+    });
+    jQuery(document).ready(function () {
+        jQuery('.overlays').click(function () {
+            jQuery('.wp-form-show-phone').removeClass('active');
+        });
+        jQuery('.remove-icons').click(function () {
+            jQuery('.wp-form-show-phone').removeClass('active');
+            $(this).removeClass('overlays');
+        });
+    });
+</script>
+<div class="sidebar-footer"><span class="hidden" style="display:none"></span></div>
+<script type="text/javascript" src="./../assets/e-201948.js" async="async" defer="defer"></script>
+<script type="text/javascript">
+    _stq = window._stq || [];
+    _stq.push(['view', {
+        v: 'ext',
+        j: '1:7.5.4',
+        blog: '161800623',
+        post: '0',
+        tz: '7',
+        srv: 'devteam.mobi'
+    }]);
+    _stq.push(['clickTrackerInit', '161800623', '0']);
+</script>
+<script src="./../assets/jquery.min.js"></script>
+<script src="./../assets/owl.carousel.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $('.showfomrmmail').click(function (e) {
+            e.preventDefault();
+            $('.wp-form-show-phone').addClass('active');
+        });
+        $('.overlays').click(function () {
+            $('.wp-form-show-phone').removeClass('active');
+        });
+        $('.remove-icons').click(function () {
+            $('.wp-form-show-phone').removeClass('active');
+            $(this).removeClass('overlays');
+        });
+        $('.wp-form-show .overlays').click(function () {
+            $('.wp-form-show').removeClass('active');
+        });
+        $('.remove-icon').click(function () {
+            $('.wp-form-show').removeClass('active');
+            $(this).removeClass('overlays');
+        });
+        $('.owl-carousel').owlCarousel({
+            loop: true,
+            nav: true,
+            center: true,
+            dots: false,
+            margin: 0,
+            autoplay: true,
+            autoplayTimeout: 5000,
+            responsive: {
+                0: {
+                    items: 1
+                },
+                600: {
+                    items: 3
+                },
+                1000: {
+                    items: 3
+                }
+            }
+        });
+        $(".btnshow").click(function () {
+            $(".xs-sidebar-group").addClass('isActive');
+        });
+        $(".close-side-widget").click(function () {
+            $(".xs-sidebar-group").removeClass('isActive');
+        });
+        $(".xs-overlay").click(function () {
+            $(".xs-sidebar-group").removeClass('isActive');
+        });
+        $.ajax({
+            url: "https://lead.devteam.mobi/user/leadreport/trackingdevteam",
+            type: "post",
+            data: {
+                current_url: document.location.href
+            },
+            success: function (result) {}
+        });
+    });
+</script>
+<script type="text/javascript" defer="" src="./../assets/autoptimize_3c7a2ff5eab1e6e2bdd95045c7aa7170.js"></script>
+<img src="./../assets/g.gif" alt=":)" width="6" height="5" id="wpstats">
+</body>
+</html>

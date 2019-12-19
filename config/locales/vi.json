@@ -1,0 +1,100 @@
+{
+	"menu": {
+		"Home": "Trang chủ",
+		"About_Us": "Về Chúng Tôi",
+		"Services": "Dịch Vụ",
+		"Products": "Sản Phẩm",
+		"Team": "Đội Ngũ",
+		"Contact": "Liên Hệ"
+	},
+	"top": {
+		"title": "Phát triển và gia công phần mềm",
+		"Contact_Us_Now": "Liên Hệ Ngay"
+	},
+	"about": {
+		"section_title": "VỀ CHÚNG TÔI",
+		"text_about": "Kể từ khi thành lập vào năm 2015, TulpoDev đã cung cấp dịch vụ Gia công CNTT trên toàn thế giới. Chúng tôi kết hợp kiến ​​thức về lĩnh vực kinh doanh, phương pháp đã được chứng minh và chuyên môn công nghệ của hơn 50 chuyên gia phần mềm lành nghề để mang lại giải pháp chất lượng cao, tăng thêm giá trị cho doanh nghiệp.",
+		"OUR_MISSION": "SỨ MỆNH",
+		"text_mission": "Cung cấp các dịch vụ phát triển phần mềm chất lượng cao với tính toàn vẹn, trung thực và minh bạch với tỷ suất lợi nhuận hợp lý, trong khi vẫn duy trì lợi nhuận.",
+		"OUR_VISION": "TẦM NHÌN",
+		"text_vision": "Trở thành công ty phát triển phần mềm được công nhận và tin cậy nhất có trụ sở tại Việt Nam."
+	},
+	"roadmap": {
+		"section_title": "LỊCH SỬ",
+		"text_roadmap": "Kể từ khi thành lập vào năm 2015, TulpoDev đã cung cấp dịch vụ Gia công CNTT trên toàn thế giới. Tại TulpoDev, chúng tôi nắm giữ một tập hợp các giá trị văn hóa và chuyên nghiệp được thiết lập tốt, đại diện cho khát vọng cao nhất của chúng tôi về cách chúng tôi tham gia với tư cách là đồng nghiệp, đồng nghiệp, cựu sinh viên, đối tác và thành viên hội đồng quản trị."
+	},
+	"modular": {
+		"section_title": "MODULAR",
+		"text_modular": "Cùng với các nền tảng cơ bản và ổn định, chúng tôi cũng đã tham gia cuộc cách mạng công nghệ. Các nhà phát triển phần mềm của chúng tôi có khả năng xây dựng các giải pháp phần mềm tương đương với các công nghệ xu hướng như Blockchain, AI, v.v.",
+		"modular_1": "Blockchain Platform",
+		"modular_2": "Market Maker",
+		"modular_3": "Promote Payout",
+		"modular_4": "Bounty, Airdrop",
+		"modular_5": "Exchanger",
+		"modular_6": "Auto Payment",
+		"modular_7": "Wallet System",
+		"modular_8": "Network Marketing",
+		"modular_9": "Signal Coin-Forex",
+		"modular_10": "Digi-Assets",
+		"modular_11": "Distributed Apps"
+	},
+	"interface": {
+		"section_title": "INTERFACE",
+		"text_interface": "Là một trong những công ty gia công phần mềm hàng đầu và các công ty gia công CNTT được tìm kiếm nhiều nhất, chúng tôi cung cấp dịch vụ phát triển phần mềm cho các ngành khác nhau cùng với quản lý dự án theo hướng kết quả và truyền thông liền mạch. Các giải pháp của chúng tôi mang lại lợi ích trong môi trường kết hợp Internet, doanh nghiệp và lai với trọng tâm là tối ưu hóa và mở rộng bất kể ngành công nghiệp mà họ hoạt động.",
+		"interface_1_tilte": "Website",
+		"interface_1_text": "Lựa chọn cho các dịch vụ phát triển ứng dụng web đầy đủ chuyên nghiệp, giá cả phải chăng và hiệu quả. Là một công ty phát triển ứng dụng web với hơn 5 năm kinh nghiệm, chúng tôi giải quyết các nhu cầu kỹ thuật số của một số ngành công nghiệp năng động nhất. Là một công ty phát triển ứng dụng web nhanh chóng, chúng tôi cung cấp các dịch vụ phát triển ứng dụng web tùy chỉnh phù hợp với yêu cầu kinh doanh của bạn. Là một công ty phát triển ứng dụng web, chúng tôi làm việc với các công nghệ mới nhất để cung cấp các giải pháp phát triển ứng dụng trang web đầu cuối có khả năng mở rộng, đáp ứng, nhanh chóng và an toàn.",
+		"interface_2_tilte": "Extention",
+		"interface_2_text": "Phần mở rộng là các chương trình phần mềm nhỏ tùy chỉnh trải nghiệm duyệt web. Chúng cho phép người dùng điều chỉnh chức năng và hành vi của Chrome theo nhu cầu hoặc sở thích cá nhân. Chúng được xây dựng trên các công nghệ web như HTML, JavaScript và CSS. Một phần mở rộng phải thực hiện một mục đích duy nhất được xác định hẹp và dễ hiểu. Một phần mở rộng có thể bao gồm nhiều thành phần và một loạt các chức năng, miễn là mọi thứ đều đóng góp cho một mục đích chung.",
+		"interface_3_tilte": "Application",
+		"interface_3_text": "Chúng tôi xây dựng các ứng dụng phần mềm an toàn, có thể mở rộng và tương tác để mở khóa sự đổi mới và tạo sự khác biệt trong thế giới công nghệ tăng thêm giá trị cho doanh nghiệp của bạn. Là một công ty phát triển ứng dụng ra nước ngoài tại Việt Nam với hơn 5 năm kinh nghiệm, chúng tôi cung cấp dịch vụ phát triển ứng dụng nhanh chóng cho một loạt các ngành công nghiệp, phục vụ từ các công ty mới thành lập đến các doanh nghiệp nhỏ và quy mô lớn. Là một trong những công ty phát triển ứng dụng hàng đầu của Việt Nam, chúng tôi hướng đến việc cung cấp các dịch vụ phát triển ứng dụng stack đầy đủ phục vụ cho mọi khía cạnh của ngành công nghệ. Chuyên môn của chúng tôi trong các công nghệ phát triển cung cấp nhiều loại dịch vụ có thể đáp ứng yêu cầu của bạn một cách tối đa.",
+		"interface_4_tilte": "Bot & Tools",
+		"interface_4_text": "Với sự phổ biến của các nền tảng mạng xã hội và nền tảng giao dịch tài chính, các công cụ và chatbot là một phần quan trọng trong việc hỗ trợ khách hàng truy cập và tham gia. Tiện ích của các công cụ hoặc chatbot được hiển thị- Tự động chăm sóc khách hàng- Giao dịch tự động- Phân tích và đánh giá hỗ trợ - Tăng trải nghiệm của khách hàng.",
+		"interface_5_tilte": "Desktop CLI",
+		"interface_5_text": "Giao diện dòng lệnh (CLI) là giao diện người dùng dựa trên văn bản (UI) được sử dụng để xem và quản lý các tệp máy tính. Giao diện dòng lệnh còn được gọi là giao diện người dùng dòng lệnh, giao diện người dùng bảng điều khiển và giao diện người dùng ký tự. Ưu điểm của giao diện dòng lệnh là- Điều khiển chi tiết của hệ điều hành hoặc ứng dụng - Quản lý nhanh hơn một số lượng lớn hệ điều hành - Khả năng lưu trữ tập lệnh để tự động hóa các tác vụ thông thường - Kiến thức giao diện dòng lệnh cơ bản để giúp khắc phục sự cố, chẳng hạn như các sự cố kết nối mạng."
+	},
+	"api": {
+		"section_title": "API",
+		"text_api": "Thật dễ dàng để bắt đầu tiêu thụ API trong ứng dụng của bạn. Bạn có thể sử dụng bất kỳ API nào bằng định dạng REST hợp nhất, dễ hiểu và được nhúng trong ứng dụng của bạn. Hơn nữa, bạn có thể xem tất cả các API mà bạn được kết nối bằng bảng điều khiển, theo dõi những thứ như số lượng yêu cầu API, độ trễ và tỷ lệ lỗi - Thiết kế & Xuất bản API - API bảo mật với chia sẻ và kiểm soát truy cập.",
+		"api_1": "Bank Payment",
+		"api_2": "Trading View",
+		"api_3": "Multi Currency FullNode",
+		"api_4": "Market Data"
+	},
+	"products": {
+		"section_title": "SẢN PHẨM",
+		"text_products": "Các dự án mà chúng tôi đã triển khai bao gồm nhiều sản phẩm trong lĩnh vực Ngân hàng, Tiền điện tử, Forex. Một số sản phẩm liên quan đến bảo mật thông tin chúng tôi không thể công khai, chúng tôi sẽ cung cấp cho khách hàng các sản phẩm demo."
+	},
+	"team": {
+		"section_title": "ĐỘI NGŨ",
+		"text_team": "Trưởng phòng, quản lý dự án và các chuyên gia khác. Tại TulpoDev, chúng tôi có một môi trường thân thiện, nhiệt tình và vui vẻ nhưng chuyên nghiệp. Chúng tôi yêu công việc của chúng tôi và sự phát triển nhanh chóng của công ty."
+	},
+	"partner": {
+		"section_title": "KHÁCH HÀNG",
+		"text_partner": "Chúng tôi đã có một hành trình tuyệt vời kể từ khi thành lập vào năm 2015 và đã nhận được rất nhiều lời chứng thực, phản hồi và đề xuất của khách hàng."
+	},
+	"faq": {
+		"section_title": "CÂU HỎI THƯỜNG GẶP",
+		"text_faq": "Biết thêm về các quy trình của chúng tôi và cách chúng tôi làm việc, với sự trợ giúp của các Câu hỏi thường gặp sau.",
+		"ques_1": "Những lợi thế của việc thuê ngoài một Công ty Phát triển Phần mềm Tùy chỉnh là gì?",
+		"ans_1": "Sau đây là những lợi thế của việc thuê ngoài một Công ty phát triển phần mềm tùy chỉnh trong doanh nghiệp của bạn - Lịch sử phát triển minh bạch - Các giao thức bảo mật được tăng cường - Tốc độ phát triển tăng - Chi phí phát triển giảm",
+		"ques_2": "Làm cách nào để tìm Công ty Phát triển Phần mềm Tùy chỉnh hiệu quả về chi phí?",
+		"ans_2": "Nếu bạn đang có kế hoạch thuê các nhóm phát triển phần mềm và có một hạn chế về ngân sách, thì tốt hơn là nên đến một công ty phát triển phần mềm tầm trung của Việt Nam. Chúng tôi là một công ty phát triển phần mềm Việt Nam với hơn một thập kỷ kinh nghiệm mang đến sự xuất sắc cho các khách hàng Toàn cầu.",
+		"ques_3": "Những công ty phát triển phần mềm trọn gói để lựa chọn?",
+		"ans_3": "Để tìm công ty phát triển phần mềm tốt nhất, bạn cần xem kinh nghiệm của họ và làm việc trên công nghệ đó. Chúng tôi đã xây dựng hơn 200 ứng dụng di động và web và cung cấp sự xuất sắc từ 5 năm qua.",
+		"ques_4": "Bạn có phải là một công ty phát triển phần mềm thân thiện với người khởi nghiệp?",
+		"ans_4": "Chắc chắn rồi! Chúng tôi là một công ty phát triển phần mềm tùy chỉnh với hơn 5 năm kinh nghiệm trong việc cung cấp các giải pháp phần mềm tùy chỉnh. Phần lớn khách hàng của chúng tôi là các công ty mới thành lập và doanh nghiệp vừa và chúng tôi có tỷ lệ giữ chân khách hàng là 97%.",
+		"ques_5": "Tôi có thể xem phần mềm của mình trong khi nó đang được tiến hành không?",
+		"ans_5": "Vâng, hoàn toàn! Là một công ty phát triển phần mềm hàng đầu, chúng tôi tin tưởng vào tính xuyên suốt.",
+		"ques_6": "Tôi sẽ nhận được mã nguồn?",
+		"ans_6": "Chắc chắn rồi! Khi bạn thuê ngoài một công ty phát triển phần mềm tùy chỉnh như chúng tôi, bạn sẽ có mọi quyền truy cập hợp pháp vào phần mềm của mình. Vào cuối dự án, bạn sẽ nhận được bản quyền của mã nguồn.",
+		"ques_7": "Bạn có phát triển phần mềm doanh nghiệp không?",
+		"ans_7": "Có, loại giải pháp phát triển phần mềm chúng tôi cung cấp chỉ dành cho doanh nghiệp. Trên thực tế, là một cơ quan phát triển phần mềm, phát triển phần mềm doanh nghiệp là một trong những ưu tiên hàng đầu của chúng tôi",
+		"ques_8": "Bạn đang phát triển loại phần mềm doanh nghiệp nào?",
+		"ans_8": "Về cơ bản, chúng tôi sử dụng tất cả các công nghệ và khung hiện đại để cung cấp một giải pháp phần mềm tùy chỉnh. Các sản phẩm mà chúng tôi thực hiện là phần mềm CRM, phần mềm ERP, DApps, mạng thần kinh, ứng dụng ngân hàng và tương tự."
+	},
+	"contact": {
+		"section_title": "LIÊN HỆ CHÚNG TÔI",
+		"text_contact": "Là một công ty tập trung vào khách hàng, chúng tôi làm hết sức mình để làm cho các quy trình của chúng tôi rõ ràng và minh bạch cho bạn nhất có thể. Chúng tôi tuân theo các thực tiễn tốt nhất trong ngành và luôn cam kết cung cấp một kết quả đúng thời gian và chất lượng cao mà bạn mong đợi từ đối tác phát triển của mình.",
+		"btn_submit": "Xác Nhận"
+	}
+}

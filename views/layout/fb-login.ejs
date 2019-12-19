@@ -1,0 +1,28 @@
+<div id="fb-root" class=" fb_reset">
+    <div style="position: absolute; top: -10000px; width: 0px; height: 0px;">
+        <div></div>
+        <div><iframe name="fb_xdm_frame_https" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media"
+                src="./../assets/xd_arbiter.html" style="border: none;"></iframe></div>
+    </div>
+    <div class="fb-customerchat fb_invisible_flow fb_iframe_widget" attribution="setup_tool" page_id="713684975431254" theme_color="#e60100" fb-xfbml-state="rendered" fb-iframe-plugin-query="app_id=&amp;attribution=setup_tool&amp;container_width=0&amp;locale=vi_VN&amp;page_id=713684975431254&amp;sdk=joey&amp;theme_color=%23e60100"><span style="vertical-align: bottom; width: 0px; height: 0px;"><iframe name="f39057f6a161788" width="1000px" height="1000px" title="" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" src="./../assets/customerchat.html" style="border: none; visibility: visible; width: 288pt; height: 211px; border-radius: 9pt; bottom: 63pt; padding: 0px; position: fixed; right: 9pt; top: auto; z-index: 2147483647; max-height: 0px;" class="" data-testid="dialog_iframe"></iframe></span></div>
+    <div
+        class="fb_dialog  fb_dialog_advanced fb_customer_chat_bubble_animated_no_badge fb_customer_chat_bubble_pop_in" style="background: none; border-radius: 50%; bottom: 18pt; display: inline; height: 45pt; padding: 0px; position: fixed; right: 18pt; top: auto; width: 45pt; z-index: 2147483646;">
+        <div class="fb_dialog_content" style="background: none;"><iframe name="blank_f39057f6a161788" width="60px" tabindex="-1" data-testid="bubble_iframe" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" src="./../assets/bubble.html" style="border: none;"></iframe></div>
+    </div>
+</div>
+<script>
+    window.fbAsyncInit = function () {
+        FB.init({
+            xfbml: true,
+            version: 'v3.2'
+        });
+    };
+    (function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s);
+        js.id = id;
+        js.src = 'https://connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js#xfbml=1&version=v2.12&autoLogAppEvents=1';
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>

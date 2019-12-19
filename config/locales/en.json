@@ -1,0 +1,101 @@
+{
+	"menu": {
+		"Home": "Home",
+		"About_Us": "About",
+		"Services": "Services",
+		"Products": "Products",
+		"Team": "Team",
+		"Contact": "Contact"
+	},
+	"top": {
+		"title": "Outsourcing Software Development",
+		"Contact_Us_Now": "Contact Us Now"
+	},
+	"about": {
+		"section_title": "ABOUT US",
+		"text_about": "Since our inception in 2015, TulpoDev has been delivering IT Outsourcing services worldwide. We combine business domain knowledge, proven methodologies, and technology expertise of 50+ skilled software professionals to yield high-quality solutions that add value to businesses.",
+		"OUR_MISSION": "OUR MISSION",
+		"text_mission": "To deliver high-quality software development services with integrity, honesty, and transparency with reasonable margins, while maintaining profitability.",
+		"OUR_VISION": "OUR VISION",
+		"text_vision": "To be the most recognized and trusted software development company based out of Viet Nam."
+	},
+	"roadmap": {
+		"section_title": "ROADMAP",
+		"text_roadmap": "Since our inception in 2015, TulpoDev has been delivering IT Outsourcing services worldwide. At TulpoDev, we embrace a well-established set of cultural and professional values which represent our highest aspirations for how we engage as colleagues, fellows, alumni, partners and board members."
+	},
+	"modular": {
+		"section_title": "MODULAR",
+		"text_modular": "Along with the basic and stable platforms, we have joined the technology revolution as well. Our software developers are equally capable of building software solutions with the trending technologies such as Blockchain, AI etc.",
+		"modular_1": "Blockchain Platform",
+		"modular_2": "Market Maker",
+		"modular_3": "Promote Payout",
+		"modular_4": "Bounty, Airdrop",
+		"modular_5": "Exchanger",
+		"modular_6": "Auto Payment",
+		"modular_7": "Wallet System",
+		"modular_8": "Network Marketing",
+		"modular_9": "Signal Coin-Forex",
+		"modular_10": "Digi-Assets",
+		"modular_11": "Distributed Apps"
+	},
+	"interface": {
+		"section_title": "INTERFACE",
+		"text_interface": "As one of the top software outsourcing companies and most sought after IT outsourcing companies, we provide software development services for various industries along with result-driven project management and seamless communication. Our solutions yield benefit in Internet-facing, corporate and hybrid environments with a focus on optimization and expansion no matter the industry they operate in.",
+		"interface_1_tilte": "Website",
+		"interface_1_text": "Opt for professional, affordable & effective full-stack web application development services. As a web application development company with 5+ years of experience, we address the digital needs of some of the most dynamic industries. As a rapid web application development company, we offer custom web app development services that match your business requirements. As a web app development company, we work with the latest technologies to deliver end-to-end website application development solutions that are scalable, responsive, rapid & secure.",
+		"interface_2_tilte": "Extention",
+		"interface_2_text": "Extensions are small software programs that customize the browsing experience. They enable users to tailor Chrome functionality and behavior to individual needs or preferences. They are built on web technologies such as HTML, JavaScript, and CSS. An extension must fulfill a single purpose that is narrowly defined and easy to understand. A single extension can include multiple components and a range of functionality, as long as everything contributes towards a common purpose.",
+		"interface_3_tilte": "Application",
+		"interface_3_text": "We build secure, scalable and interactive software applications that unlock innovation and make a difference in the tech world adding value to your business. As an offshore application development company in VietNam with 5+ years of experience, we offer rapid application development services to a wide array of industries, catering from startups to small and large sized businesses. Being one of the top notch VietNam app development companies, we are aimed at providing full stack application development services that cater to every facet of the tech industry. Our expertise in the development technologies provide a wide variety of services that can fulfill your requirements in an utmost manner.",
+		"interface_4_tilte": "Bot & Tools",
+		"interface_4_text": "With the proliferation of social networking platforms and financial transaction platforms, tools and chatbots are an important part of supporting customer access and engagement. The utility of tools or chatbots is shown- Customer care automatically- Automatic trading- Support analysis and evaluation- Increasing customer experience",
+		"interface_5_tilte": "Desktop CLI",
+		"interface_5_text": "A command line interface (CLI) is a text-based user interface (UI) used to view and manage computer files. Command line interfaces are also called command-line user interfaces, console user interfaces and character user interfaces.The advantages of a command line interface are- Granular control of an OS or application - Faster management of a large number of operating systems - Ability to store scripts to automate regular tasks - Basic command line interface knowledge to help with troubleshooting, such as network connection issues."
+	},
+	"api": {
+		"section_title": "API",
+		"text_api": "It's really easy to  start consuming APIs in your app.  You can consume any API using a unified, REST format that is easy to understand and embed in your app. Moreover, you can view all of the APIs you are connected to using the dashboard, which monitors things like the number of API requests, latency, and error rates-Design & Publish APIs-Secure APIs With Sharing & Access Control.",
+		"api_1": "Bank Payment",
+		"api_2": "Trading View",
+		"api_3": "Multi Currency FullNode",
+		"api_4": "Market Data"
+	},
+	"products": {
+		"section_title": "PRODUCTS",
+		"text_products": "The projects that we have implemented include many products in the field of Banking, Cryptocurrency, Forex. Some products related to information security we can not public, we will give customers the demo products.",
+		"text_about": "products.text_about"
+	},
+	"team": {
+		"section_title": "OUR TEAM",
+		"text_team": "Department heads, project managers and other professionals. At TulpoDev, we have a friendly, enthusiastic and funloving yet professional environment. We love our work and growing very fast."
+	},
+	"partner": {
+		"section_title": "PARTNER",
+		"text_partner": "We have had an amazing journey since our inception in 2015 and have received lots of client testimonials, feedback, and suggestions."
+	},
+	"faq": {
+		"section_title": "FREQUENTLY ASKED QUESTIONS",
+		"text_faq": "Know more about our processes and how we work, with the help of the following FAQs.",
+		"ques_1": "What are the advantages of outsourcing a Custom Software Development Company?",
+		"ans_1": "Here are the advantages of outsourcing a Custom Software Development Company in your business-Transparent development history-Enhanced security protocols-Development speed increased-Development cost is reduced",
+		"ques_2": "How do I find cost effective Custom Software Development Company?",
+		"ans_2": "If you are planning to hire software development teams and have a budget constraint, then it is better to go for a mid scale VietNam software development company. We are an VietNam software development company with more than a decade experience delivering excellence to Global clients.",
+		"ques_3": "Which full stack software development companies to choose?",
+		"ans_3": "To find the best software development company you need to see their experience and work on that technology. We have build 200+ mobile and web apps and delivering excellence from past 5 years.",
+		"ques_4": "Are you a startups friendly software development company?",
+		"ans_4": "Yes, absolutely! We are a custom software development company with 5+ years experience in delivering custom software solutions. Majority of our clients have been startups and SMEs and we have a 97% customer retention rate.",
+		"ques_5": "Can I see my software while it is in progress?",
+		"ans_5": "Yes, absolutely!As a top software development company we belive in transperency.",
+		"ques_6": "Will I get the source code?",
+		"ans_6": "Yes, absolutely! When you outsource a custom software development company like us, you get every rightful access of your software. In the end of the project you will get the copyright of the source codes.",
+		"ques_7": "Are you into enterprise software development?",
+		"ans_7": "Yes,the kind of software development solution we provide are enterprise grade only. In fact, as a software development agency, enterprise software development is one of our top priorities",
+		"ques_8": "What type of enterprise software development are you into?",
+		"ans_8": "Basically, we utilize all the modern technologies and frameworks to provide a custom software solution. The prodcuts which we make are CRM software, ERP software, DApps, Neural networks, Banking applications and alike."
+	},
+	"contact": {
+		"section_title": "CONTACT US",
+		"text_contact": "Being a customer-focused company, we do our best to make our processes as clear and transparent for you as possible. We follow the industry best practices and always commit to deliver a predictable high quality & on-time result that you expect from your development partner.",
+		"btn_submit": "Submit"
+	}
+}
