@@ -39,25 +39,46 @@ var initRouter = (app)=> {
         res.render("service-Tulpo", { title: "Dịch vụ" });
     })
     router.get('/service/call-service', (req, res)=>{
-        res.render("Service/call-service-Tulpo", { title: "Sản phẩm đề mô"});
+        res.render("Service/website-Tulpo", { 
+            title: "Sản phẩm đề mô",
+            service_header: "Coming Soon"
+        });
     })
     router.get('/service/website', (req, res)=>{
-        res.render("Service/website-Tulpo", { title: "Sản phẩm đề mô"});
+        res.render("Service/website-Tulpo", { 
+            title: "Sản phẩm đề mô",
+            service_header: "Coming Soon"
+        });
     })
     router.get('/service/company', (req, res)=>{
-        res.render("Service/company-Tulpo", { title: "Sản phẩm đề mô"});
+        res.render("Service/website-Tulpo", { 
+            title: "Sản phẩm đề mô",
+            service_header: "Coming Soon"
+        });
     })
     router.get('/service/crm', (req, res)=>{
-        res.render("Service/crm-Tulpo", { title: "Sản phẩm đề mô"});
+        res.render("Service/website-Tulpo", { 
+            title: "Sản phẩm đề mô",
+            service_header: "Coming Soon"
+        });
     })
     router.get('/service/erp', (req, res)=>{
-        res.render("Service/erp-Tulpo", { title: "Sản phẩm đề mô"});
+        res.render("Service/website-Tulpo", { 
+            title: "Sản phẩm đề mô",
+            service_header: "Coming Soon"
+        });
     })
     router.get('/service/mobile', (req, res)=>{
-        res.render("Service/mobile-Tulpo", { title: "Sản phẩm đề mô"});
+        res.render("Service/website-Tulpo", { 
+            title: "Sản phẩm đề mô",
+            service_header: "Coming Soon"
+        });
     })
     router.get('/service/nail', (req, res)=>{
-        res.render("Service/nail-Tulpo", { title: "Sản phẩm đề mô"});
+        res.render("Service/website-Tulpo", { 
+            title: "Sản phẩm đề mô",
+            service_header: "Coming Soon"
+        });
     })
 
     router.get("/*", (req, res)=> {

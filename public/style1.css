@@ -1356,16 +1356,6 @@ p.from_the_blog_excerpt {
     list-style: none;
 }
 
-.list-footer-email li:before {
-    content: '';
-    display: inline-block;
-    height: 20px;
-    width: 33px;
-    background-repeat: no-repeat;
-    background-image: url('https://devteam.mobi/wp-content/uploads/2019/06/email.svg');
-    top: 3px;
-    position: relative;
-}
 
 @media screen and (max-width:420px) {
     .block-profile-capacity {
