@@ -12,11 +12,11 @@ var initRouter = (app)=> {
     router.get('/price', (req, res)=>{
         res.render("price-Tulpo", { title: "Báo giá sản phẩm" } );
     })
-    router.get('/customer', (req, res)=>{
-        res.render("customer-Tulpo", { title: "Sản phẩm đề mô"});
+    router.get('/product', (req, res)=>{
+        res.render("product-Tulpo", { title: "Sản phẩm đề mô"});
     })
     router.get('/news', (req, res)=>{
-        res.render("news-Tulpo", { title: "Tin tức nổi bâtj"});
+        res.render("news-Tulpo", { title: "Tin tức nổi bật"});
     })
     // about 
     router.get('/about/about-us', (req, res)=>{
@@ -38,43 +38,55 @@ var initRouter = (app)=> {
     router.get('/service', (req, res)=>{
         res.render("service-Tulpo", { title: "Dịch vụ" });
     })
-    router.get('/service/call-service', (req, res)=>{
+    router.get('/service/bot-chatbot', (req, res)=>{
         res.render("Service/website-Tulpo", { 
             title: "Sản phẩm đề mô",
             service_header: "Coming Soon"
         });
     })
-    router.get('/service/website', (req, res)=>{
+    router.get('/service/tool', (req, res)=>{
         res.render("Service/website-Tulpo", { 
             title: "Sản phẩm đề mô",
             service_header: "Coming Soon"
         });
     })
-    router.get('/service/company', (req, res)=>{
+    router.get('/service/blockchain', (req, res)=>{
         res.render("Service/website-Tulpo", { 
             title: "Sản phẩm đề mô",
             service_header: "Coming Soon"
         });
     })
-    router.get('/service/crm', (req, res)=>{
+    router.get('/service/wallet', (req, res)=>{
         res.render("Service/website-Tulpo", { 
             title: "Sản phẩm đề mô",
             service_header: "Coming Soon"
         });
     })
-    router.get('/service/erp', (req, res)=>{
+    router.get('/service/exchange', (req, res)=>{
         res.render("Service/website-Tulpo", { 
             title: "Sản phẩm đề mô",
             service_header: "Coming Soon"
         });
     })
-    router.get('/service/mobile', (req, res)=>{
+    router.get('/service/pay-gate', (req, res)=>{
         res.render("Service/website-Tulpo", { 
             title: "Sản phẩm đề mô",
             service_header: "Coming Soon"
         });
     })
-    router.get('/service/nail', (req, res)=>{
+    router.get('/service/market-maker', (req, res)=>{
+        res.render("Service/website-Tulpo", { 
+            title: "Sản phẩm đề mô",
+            service_header: "Coming Soon"
+        });
+    })
+    router.get('/service/website-mlm', (req, res)=>{
+        res.render("Service/website-Tulpo", { 
+            title: "Sản phẩm đề mô",
+            service_header: "Coming Soon"
+        });
+    })
+    router.get('/service/bounty-airdrop', (req, res)=>{
         res.render("Service/website-Tulpo", { 
             title: "Sản phẩm đề mô",
             service_header: "Coming Soon"
