@@ -17394,7 +17394,6 @@ div.jetpack-quiz pre {
     font-weight: 400;
     height: 1em;
     line-height: 1;
-    speak: none;
     text-decoration: inherit;
     vertical-align: top;
     width: 1em
@@ -19378,9 +19377,6 @@ a.page-numbers:hover {
     border-bottom-right-radius: 50%;
     left: -5%;
 }
-
-#masthead .container .flex-right .menu-item a {}
-
 #content .large-12 .col-inner.service_kk h4 span {
     color: #757575;
 }
